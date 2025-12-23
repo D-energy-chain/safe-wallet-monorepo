@@ -10341,10 +10341,10 @@ __metadata:
 
 "@safe-global/safe-deployments@github:safe-global/safe-deployments#main":
   version: 1.37.50
-  resolution: "@safe-global/safe-deployments@https://github.com/safe-global/safe-deployments.git#commit=690e7aff475527e3a2d39eb54ee353230e5ad25a"
+  resolution: "@safe-global/safe-deployments@https://github.com/safe-global/safe-deployments.git#commit=0ce954480a72c897ad9d62e3cfd197323f2a052a"
   dependencies:
     semver: "npm:^7.6.2"
-  checksum: 10/70bd1a47e844dd9184fbf9e8146e1490bd6c4d47b294a5115e37543dad59b8b226c70642057452a4f350d7f62a845fa9bfe88b1e0bca97d3a8c5a78839fd5640
+  checksum: 10/950f4dd68f93b3f50014bedda3cd0c375f240c1ec0a75082e5ba591ad170e32b51f9bfd0ee1fdd3e4bd995d0e25e1830c8ba979cdbb1413e6dd1d1d6da10cb18
   languageName: node
   linkType: hard
 
